@@ -1,0 +1,17 @@
+{
+  "name": "charset-detect-heuristic",
+  "version": "0.1.0",
+  "description": "Detects text encoding using byte order mark, declared charset, and statistical heuristics.",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": "./src/index.js",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "dependencies": {}
+}
